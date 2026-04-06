@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <>Hello World</>
-    <>This is my first HTML page.<>
+    <h1>Hello World</h1>
+    <p>This is my first HTML page.</p>
 </body>
 </html>
